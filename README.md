@@ -1,1 +1,1 @@
-# Wazuh
+# Home Lab
